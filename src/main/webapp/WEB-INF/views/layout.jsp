@@ -15,9 +15,9 @@
  
         <title><tiles:insertAttribute name="title" ignore="true" /></title>
         
-        <link href="<c:url value="/resources/css/estilo.css"/>" />
+        <link href="<c:url value="../../resources/css/estilo.css"/>" />
         <script type="text/javascript" 
-        		src="<c:url value="/resources/js/scripts.js"/>"></script>
+        		src="<c:url value="../../resources/js/scripts.js"/>"></script>
 </head>
 <body>
 

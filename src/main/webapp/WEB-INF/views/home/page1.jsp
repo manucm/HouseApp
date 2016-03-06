@@ -8,3 +8,4 @@
     <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
     
     <h4>Pagina1</h4>
+    <h3><fmt:message key="title"/></h3>
